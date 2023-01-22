@@ -1,2 +1,4 @@
 # habits-nlw
-Studying a React/React-Native/Fastify app
+Studying a very basic React/React-Native/Fastify app.
+
+Rocketseat NLW Setup 2023.
